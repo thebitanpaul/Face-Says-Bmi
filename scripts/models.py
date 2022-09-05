@@ -1,11 +1,14 @@
 # models for face2bmi project
 
 # keras vggface model
-from keras.engine import Model
-from keras.layers import Flatten, Dense, Input, Dropout, Activation, BatchNormalization
-from keras_vggface.vggface import VGGFace
+
+import tensorflow
+from tensorflow.keras import Model
 from keras_vggface import utils
-from keras.preprocessing import image
+from tensorflow.keras.layers import Flatten, Dense, Input, Dropout, Activation, BatchNormalization
+from keras_vggface.vggface import VGGFace
+# from tensorflow.keras.preprocessing import image
+from tensorflow.keras.utils.image_dataset_from_directory import image
 
 # image manipulation
 from matplotlib import pyplot as plt
@@ -18,7 +21,7 @@ from mtcnn.mtcnn import MTCNN
 
 # model metrics
 from sklearn.metrics import roc_auc_score
-from sklearn.metrics.regression import mean_squared_error, mean_absolute_error
+from sklearn.metrics import mean_squared_error, mean_absolute_error
 from scipy.stats import pearsonr
 
 # common packages
