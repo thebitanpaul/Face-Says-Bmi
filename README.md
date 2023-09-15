@@ -52,7 +52,7 @@ of all the visible faces on that picture. Isn't that futuristic?
 
 # Face detection and BMI/Age/Sex prediction
 
-The model provides end-to-end capability of detecting faces and predicting the BMI, Age and Gender for each person. 
+The model provides end-to-end capability of detecting faces and predicting the BMI, Age and Gender for each person in the same picture. 
 
 The architecture of the model is described as below:
 
