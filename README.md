@@ -154,9 +154,12 @@ faces as expected. Providing a good ammount of data set,
 this model can predict bmi as efficiently as it does in 
 case of western faces.
 ## 🚀 About Me
-I am a AI and Machine Learning Enthusiast & growing Android Developer (kotlin). Both the fields, Machine Learning and Android Development, fascinates me a lot. And I also have worked on Azure Cloud Computing platform to deploy machine learning models.
+I am an AI Specialist and Data Engineer at Navikenz & growing Android Developer (kotlin). Both the fields, Machine Learning and Android Development, fascinates me a lot. And I also have worked on Azure Cloud Computing platform to deploy machine learning models.
+
+To know more about me, type ```"Bitan Paul"``` on your google search.
 ## 🔗 Links
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thebitanpaul)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thebitanpaul)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thebitanpaul_)
 
